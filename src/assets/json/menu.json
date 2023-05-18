@@ -1,0 +1,22 @@
+[
+    {
+        "MenuID": 1,
+        "Name": "Login",
+        "Path": "/menu/login"
+    },
+    {
+        "MenuID": 2,
+        "Name": "Register",
+        "Path": "/menu/register"
+    },
+    {
+        "MenuID": 3,
+        "Name": "Home",
+        "Path": "/menu/home"
+    },
+    {
+        "MenuID": 4,
+        "Name": "Contact",
+        "Path": "/menu/contact"
+    }
+]

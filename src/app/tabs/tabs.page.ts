@@ -7,6 +7,14 @@ import { Component } from '@angular/core';
 })
 export class TabsPage {
 
-  constructor() {}
+  Tabs: any;
+
+  constructor() {
+    fetch('./assets/json/tabs.json')
+      .then((res) => res.json())
+      .then((json) => {
+        this.Tabs = json;
+      });
+  }
 
 }

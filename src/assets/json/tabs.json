@@ -1,0 +1,30 @@
+[
+  {
+    "TabID": 1,
+    "Tab": "tab1",
+    "TabName": "HOME",
+    "Icon": "home",
+    "Class": ""
+  },
+  {
+    "TabID": 2,
+    "Tab": "tab2",
+    "TabName": "RECENTLY READ ",
+    "Icon": "sync-circle",
+    "Class": ""
+  },
+  {
+    "TabID": 3,
+    "Tab": "tab3",
+    "TabName": "FAVORITES",
+    "Icon": "heart",
+    "Class": ""
+  },
+  {
+    "TabID": 4,
+    "Tab": "tab4",
+    "TabName": "RECOMMENDED",
+    "Icon": "stats-chart",
+    "Class": ""
+  }
+]
